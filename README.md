@@ -18,7 +18,7 @@ The dataset used is the Mall Customers dataset, which contains customer informat
   - Age
   - Annual Income (k$)
   - Spending Score (1–100)
-  - 
+   
 ---
 
 ## 📊 Features
